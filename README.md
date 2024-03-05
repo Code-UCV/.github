@@ -1,5 +1,4 @@
-# Universidad César Vallejo
-- - -
+.github
 
-> [!IMPORTANT]
-> Se recomienda subir únicamente el código fuente del proyecto, sin incluir el informe.
+> [!NOTE]
+> Ignore
