@@ -1,4 +1,5 @@
 # Universidad César Vallejo
+- - -
 
-> ![IMPOTANT]
-> Se recomienda solo subir el código fuente del proyecto más no el informe.
+> [!IMPORTANT]
+> Se recomienda subir únicamente el código fuente del proyecto, sin incluir el informe.
